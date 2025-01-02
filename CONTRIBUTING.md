@@ -16,4 +16,4 @@ To contribute, you'll need to fork the repository to your own GitHub account.
 Once you've forked the repository, clone it to your local machine using the following command:
 
 ```bash
-git clone https://github.com/krichen-Noureddine/amazon-scraper
+git clone https://github.com/krichen-Noureddine/amazon-scraping.git
