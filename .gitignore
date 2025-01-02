@@ -1,0 +1,32 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+venv/
+venv
+env/
+.env
+
+# Virtual environment
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Data files (if any)
+*.csv
+*.jpg
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
